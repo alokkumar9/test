@@ -3,4 +3,10 @@ import sk-learn
 
 
 def addition():
+
+
+def substraction():
+
+
+
 	
